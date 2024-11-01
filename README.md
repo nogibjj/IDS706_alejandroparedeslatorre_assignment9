@@ -3,7 +3,10 @@ Individual project IDS-706 Alejandro Paredes La Torre
 
 This repo has the implementation for a cloud-hosted notebook. 
 
-We extract ,Performing basic Data description, the code is hosted in google colab and you can used it if you go to main.ipynb and then click in open in colab button.
+We extract and perform basic Data Analysis, the code is hosted in google colab and you can used it if you go to main.ipynb and then click in open in colab button.
+
+[main.ipynb](main.ipynb)
+
 This repo contains a brief implementation of basic descriptive metrics for the Boston Housing dataset. If you want to use this just refer this to a codespace in github and wait for the devcontainer to execute the Makefile that execute the following: install, format, lint, test.
 
 According to the requirement we have
@@ -17,10 +20,6 @@ According to the requirement we have
 * `githubactions` 
 
 * `.devcontainer` for Githubcodespace 
-
-## A quick video demo for this project in youtube:
-
-[![Demo Video](https://img.youtube.com/vi/7JTtqLkyQR0/0.jpg)](https://www.youtube.com/watch?v=7JTtqLkyQR0)
 
 ## Purpose of project
 The purpose of this project is to have a dataframe as input and compute the mean, median, std and plot some charts. To test this function the file test_main.py is used
@@ -55,6 +54,3 @@ The Boston Housing Dataset is a derived from information collected by the U.S. C
 ![var](./assets/age.png)
 
 ![comparative](./assets/age_chas.png)
-
-
-# IDS706_alejandroparedeslatorre_assignment9
